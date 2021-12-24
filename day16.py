@@ -4,9 +4,9 @@ import math
 
 def get_input(puzzle=None, mode="test"):
     if mode=="test":
-        return raw_data = "9C0141080250320F1802104A08"
+        return "9C0141080250320F1802104A08"
     else:
-        return raw_data = puzzle.input_data
+        return puzzle.input_data
         
 
 
