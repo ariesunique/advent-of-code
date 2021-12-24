@@ -89,13 +89,13 @@ elements in the window stay constant, therefore we are really comparing the firs
 ## Day 17
 - brute-force solution
 - not great, but it manages to get the right answer in a reasonable enough time
-- realistically, this wouldn't work because I have no way to verify that the answer is correct; in this case, I only know because I got the gold star; I manually played with the loop parameters and made a guess. If the guess was too long, I adjusted the loop parameters to be a wider window.
+- realistically, this wouldn't work because I have no way to verify that the answer is correct; in this case, I only know because I got the gold stars; I manually played with the loop parameters and made a guess. If the guess was too long, I adjusted the loop parameters to be a wider window.
 
 
 # Final Thoughts
 
 - This was my first time doing Advent of Code
 - It was fun and challenging and I learned a lot
-- I managed to gold stars for every day up until Day 17
+- I managed to get gold stars for every day up until Day 17
 - Took a break for Christmas Eve and end of year festivities
 - I will probably go back and try to finish the remaining days after the holidays!!
