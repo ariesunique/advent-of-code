@@ -66,7 +66,8 @@ elements in the window stay constant, therefore we are really comparing the firs
 
 ## Day 13
 - I really like this one!! I had not solved a puzzle like this before (virtual origami)
-- Getting the final solution was really satisfying!! [My solution](docs/images/aoc2021_day13.png)
+- Getting the final solution was really satisfying!!
+  ![My Solution](docs/images/aoc2021_day13.png)
 
 ## Day 14
 - Struggled a lot on this one and realized I was starting to run out of steam
