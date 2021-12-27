@@ -93,6 +93,11 @@ elements in the window stay constant, therefore we are really comparing the firs
 
 ## Day 18
 - spent too much time trying to develop my own class before I noticed that I should probably be using a Tree
+- finally got part 1 working by using a Tree structure - proud of myself for overloading the plus operator to add two nodes
+
+## Day 21
+- the first part was pretty easy (I knew there was a catch!!)
+- happy with my use of a generator
   
 # Final Thoughts
 
